@@ -1,5 +1,5 @@
-#Special Matrix
-##This algorithm is a function that creates a custom sized matrix using two inputs that specify it’s size
+# Special Matrix
+## This algorithm is a function that creates a custom sized matrix using two inputs that specify it’s size
 
 Inputs:
 * m = Width
