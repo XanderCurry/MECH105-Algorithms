@@ -1,5 +1,3 @@
-# MECH105-Algorithms
-
 # Bisect
 ## This is an algorithm for the bisection root finding method
 ### This algorithm requires specific inputs, so pay attention to these when using the function.
